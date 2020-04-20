@@ -118,11 +118,13 @@ A children’s ministry which conducts mentorship programs all over the country 
 **Music:** I sing in various singing groups in church including the youth choir and an all boy’s Acapella singing group.
 
 **Writing:** I write songs of praise and sing with the various singing groups in church. I also create content for children's lessons on various studies for life skills.
+
 **Reading** 
+
 **Making new friends.**
 
 ---
-##Referees
+## Referees
 To be provided on request.
 
 
