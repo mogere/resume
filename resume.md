@@ -14,12 +14,24 @@ To be valuable to the people around me with my skills and knowledge. To work har
 
 ---
 ## Highlighted Software Applications
+### World time Flutter application April 2020
+URL : https://github.com/mogere/worldtime
+* Flutter application
+* World time API
+
 ### Ol Pejeta Bird watcher’s mobile application, Android Developer, March 2020 
 URL: https://bitbucket.org/atemba254/olpejeta_android_project
 
 * Android (Java) platform
 * Php api
 * MySql database
+
+### Restaurants Android Application, February 2020
+URL: https://github.com/mogere/restaurants
+
+* Android (Java)
+* Yepl Api
+* Firebase for authentication and storage 
 
 ### Dandia, Scrum Master, November 2019
 A web portal that connects drivers and potential customers to a car pooling service. Customers can see a list of drivers and drivers are available to customers.
